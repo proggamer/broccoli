@@ -1,0 +1,32 @@
+
+.sandwichBoss{
+  text-align: center;
+}
+.sandwich{
+  position: absolute;
+  top:50%;
+  left:50%;
+  width:100%;
+  transform: translate(-50%, -50%);
+  /* border: 1px solid black; */
+}
+
+.sandwich h1 {
+  margin: 25px;
+}
+.sandwich h3 {
+  margin: 25px;
+}
+
+.footer {
+  text-align: center;
+  background-color: #FA8072;
+  color: #fff;
+  padding: 20px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* position: fixed;
+  z-index: 1; */
+}
+
